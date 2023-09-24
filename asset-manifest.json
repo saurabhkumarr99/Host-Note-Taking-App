@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Host-Note-Taking-App/static/css/main.436d6360.css",
+    "main.js": "/Host-Note-Taking-App/static/js/main.1a2cb4b3.js",
+    "index.html": "/Host-Note-Taking-App/index.html",
+    "main.436d6360.css.map": "/Host-Note-Taking-App/static/css/main.436d6360.css.map",
+    "main.1a2cb4b3.js.map": "/Host-Note-Taking-App/static/js/main.1a2cb4b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.436d6360.css",
+    "static/js/main.1a2cb4b3.js"
+  ]
+}
